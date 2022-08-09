@@ -1,12 +1,8 @@
 team: Leopards
 
-<<<<<<< HEAD
-manager: Rupi
-=======
-manager: Dooli
->>>>>>> 3133f6d (edit dooli)
+manager: Peter
 
-coach: Lupi
+coach: Rocket
 
 members:
   - Linda

@@ -11,8 +11,5 @@ members:
   - George
   - Tyler
   - Park
-
-fetch: this
-new: branch
-
-...fdfd
+  - Gamora
+  - Nebula
